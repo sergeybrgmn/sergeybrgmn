@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sergeybrgmn
-- 👀 I’m currently interested in creating Algorithms, Data piplenes and ETLs, working with Databases and APIS 
+- 👀 I’m currently interested in Software Engineering in general: creating Algorithms, Data piplenes, building products to solve the problems seems important
 - 💡 Apart from coding I am structuring and try to describe how our professional tasks are connected with motivation, emotions and resourses
 - 📫 My contacts: 
   - email_to: sergey.brgmn@gmail.com
