@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sergeybrgmn
-- 👀 I’m currently interested in Software Engineering in general: creating Algorithms, Data piplenes, building products to solve the problems seems important
+- 👀 I’m currently interested in Software Engineering in general: creating Algorithms (NLP), Data pipelenes, building products to solve the problems that seems important
 - 💡 Apart from coding I am structuring and try to describe how our professional tasks are connected with motivation, emotions and resourses
+- ⚙ And I am a professional Inbound and Outbound Product manager
 - 📫 My contacts: 
   - email_to: sergey.brgmn@gmail.com
   - telegram: @sergeybergmann
